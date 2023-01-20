@@ -18,7 +18,7 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("Enter full file path");
+		System.out.println("Enter full file path: ");
 		String path = sc.nextLine();
 		
 		
